@@ -1,2 +1,2 @@
 # SAS-Programming
-Contains some somple examples.
+Contains some simple examples.
