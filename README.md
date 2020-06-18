@@ -1,2 +1,2 @@
 # SAS-Programming
-Contains some related course work
+Contains some somple examples.
